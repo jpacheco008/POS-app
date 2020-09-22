@@ -1,0 +1,10 @@
+C:\Users\Smurf\source\repos\POS app\POS app\bin\Debug\POS app.exe.config
+C:\Users\Smurf\source\repos\POS app\POS app\bin\Debug\POS app.exe
+C:\Users\Smurf\source\repos\POS app\POS app\bin\Debug\POS app.pdb
+C:\Users\Smurf\source\repos\POS app\POS app\obj\Debug\POS app.csprojAssemblyReference.cache
+C:\Users\Smurf\source\repos\POS app\POS app\obj\Debug\POS_app.Form1.resources
+C:\Users\Smurf\source\repos\POS app\POS app\obj\Debug\POS_app.Properties.Resources.resources
+C:\Users\Smurf\source\repos\POS app\POS app\obj\Debug\POS app.csproj.GenerateResource.cache
+C:\Users\Smurf\source\repos\POS app\POS app\obj\Debug\POS app.exe
+C:\Users\Smurf\source\repos\POS app\POS app\obj\Debug\POS app.pdb
+C:\Users\Smurf\source\repos\POS app\POS app\obj\Debug\POS app.csproj.CoreCompileInputs.cache
